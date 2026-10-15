@@ -1,0 +1,20 @@
+{
+  "member": "Almeida K.K.O. (IT25103191)",
+  "model_family": "Gaussian Mixture Model (Clustering)",
+  "n_components_chosen": 26,
+  "covariance_type": "full",
+  "reg_covar": 0.1,
+  "ari_vs_true_letters": 0.18942476074034684,
+  "nmi_vs_true_letters": 0.457759817044727,
+  "silhouette_5000_sample": 0.09801769314162936,
+  "bic_preferred_k": 20,
+  "ari_test_mean_5_seeds": 0.20469644880559704,
+  "ari_test_std_5_seeds": 0.013733532403183611,
+  "nmi_test_mean_5_seeds": 0.46982473336480357,
+  "nmi_test_std_5_seeds": 0.014047680756428465,
+  "kmeans_ari_vs_true_letters": 0.1506950817966155,
+  "kmeans_nmi_vs_true_letters": 0.3637691561241344,
+  "kmeans_silhouette_5000_sample": 0.1390313265994143,
+  "kmeans_ari_test_mean_5_seeds": 0.14160934925004298,
+  "kmeans_nmi_test_mean_5_seeds": 0.36156193377272855
+}
